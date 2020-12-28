@@ -32,7 +32,8 @@ Conferences
 * 21st Annual Drug Discovery Summit & 2nd Annual Neuroscience Drug Discovery Congress, Oxford Global, July 2020, Berlin (online), Germany
 * Allen Institute Modeling Workshop: Towards Multipurpose Models of Cortical Circuits, Allen Institute for Brain Science, August 2020, Seatle (online), USA
 * 7th Annual Aging Research and Drug Discovery Meeting, September 2020, Columbia University Irving Medical Center, September 2020, New York City (online), USA
-* National Symposium on Drug Repurposing for Future Pandemics, Harvard Medical School, November 2020, Boston (online), USA
+* ELRIG Drug Discovery Digital 2020, The European Laboratory Research and Innovation Group, October 2020, York (online), UK
+* National Symposium on Drug Repurposing for Future Pandemics, Harvard University & Harvard Medical School, November 2020, Boston (online), USA
 
 Schools
 ======
