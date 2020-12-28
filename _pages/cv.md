@@ -30,6 +30,9 @@ Conferences
 * Optimising, Renormalising, Evolving, and Quantising Tensor Networks, Max Planck Institute for Complex Systems, June 2018, Dresden, Germany
 * 29th Annual Computational Neuroscience Meeting, Organization for Computational Neurosciences, July 2020, Melbourne (online), Australia
 * 21st Annual Drug Discovery Summit & 2nd Annual Neuroscience Drug Discovery Congress, Oxford Global, July 2020, Berlin (online), Germany
+* Allen Institute Modeling Workshop: Towards Multipurpose Models of Cortical Circuits, Allen Institute for Brain Science, August 2020, Seatle (online), USA
+* 7th Annual Aging Research and Drug Discovery Meeting, September 2020, Columbia University Irving Medical Center, September 2020, New York City (online), USA
+* National Symposium on Drug Repurposing for Future Pandemics, Harvard Medical School, November 2020, Boston (online), USA
 
 Schools
 ======
@@ -46,7 +49,7 @@ Teaching
 * Electromagnetism: Guided second year students through electromagnetism exercises, wrote accompanying theory summaries, and graded the problem sets. 
 * Master Thesis Reading Committee: Participated in the evaluation of a thesis and associated oral thesis defence  on the topic of tensor networks and wavelet-theory. 
 
-Service and leadership
+Service and Leadership
 ======
 * Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
 * Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
