@@ -24,9 +24,9 @@ Work experience
 Conferences
 ======
 * Tensor Networks: Structure, Applications, and Holography, Simons Center for Geometry and Physics, December 2017, Stony Brook, USA
-* Cosmological Frontiers in Fundamental Physics, Solvay Institutes - Perimeter Institute - APC Paris, May 2018, Brussels, Belgium
+* Cosmological Frontiers in Fundamental Physics, Solvay Institutes & Perimeter Institute & APC Paris, May 2018, Brussels, Belgium
 * Quantum Paths in Low Dimensions: Theory and Experiment, The Erwin Schrödinger Institute, May 2018, Vienna, Austria
-* Theory at Sea: Joint Workshop in Theoretical and Mathematical Physicists, KU Leuven - University of Antwerp - Vrije Universiteit Brussel - UGent , June 2018, Oostduinkerke, Belgium
+* Theory at Sea: Joint Workshop in Theoretical and Mathematical Physicists, KU Leuven & University of Antwerp & Vrije Universiteit Brussel & UGent, June 2018, Oostduinkerke, Belgium
 * Optimising, Renormalising, Evolving, and Quantising Tensor Networks, Max Planck Institute for Complex Systems, June 2018, Dresden, Germany
 * 29th Annual Computational Neuroscience Meeting, Organization for Computational Neurosciences, July 2020, Melbourne (online), Australia
 * 21st Annual Drug Discovery Summit & 2nd Annual Neuroscience Drug Discovery Congress, Oxford Global, July 2020, Berlin (online), Germany
