@@ -34,6 +34,7 @@ Conferences
 * 7th Annual Aging Research and Drug Discovery Meeting, September 2020, Columbia University Irving Medical Center, September 2020, New York City (online), USA
 * ELRIG Drug Discovery Digital 2020, The European Laboratory Research and Innovation Group, October 2020, York (online), UK
 * National Symposium on Drug Repurposing for Future Pandemics, Harvard University & Harvard Medical School, November 2020, Boston (online), USA
+* Inaugural Weizmann-Columbia Brain Symposium on The Adaptive Brain, Zuckerman Institute & Weizmann Institute, January 2021, New York City & Rehovot (online), USA & Israel 
 
 Schools
 ======
