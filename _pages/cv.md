@@ -25,8 +25,10 @@ Conferences
 ======
 * Workshop on Free Energy Methods in Drug Design, Novartis Institute for BioMedical Research, June 2021, Cambridge (online), USA
 * Les Houches-TSRC Protein Dynamics Workshop, IST Austria, May 2021, Les Houches (online), France 
-* Ion Channel Symposium:  Novel members, structures and function, May 2021, Copenhagen (online), Denmark
-* Oslo Life Science Conference: Precision Psychiatry, Combining Big Data with Stem Cells, February 2021, Oslo (online), Norway
+* Ion Channel Symposium: Novel Members, Structures and Function, University of Copenhagen, May 2021, Copenhagen (online), Denmark
+* Workshop on Computer Simulation and Theory of Macromolecules, Max Planck Institute for Biophysical Chemistry, April 2021, Hünfeld (online), Germany
+* EPFL Neuro Symposium Surprise, Curiosity and Reward: from Neuroscience to AI, Brain Mind Institute, February 2021, Lausanne (online), Swiss
+* Oslo Life Science Conference: Precision Psychiatry, Combining Big Data with Stem Cells, University of Oslo, February 2021, Oslo (online), Norway
 * Inaugural Weizmann-Columbia Brain Symposium on The Adaptive Brain, Zuckerman Institute & Weizmann Institute, January 2021, New York City & Rehovot (online), USA & Israel 
 * National Symposium on Drug Repurposing for Future Pandemics, Harvard University & Harvard Medical School, November 2020, Boston (online), USA
 * ELRIG Drug Discovery Digital 2020, The European Laboratory Research and Innovation Group, October 2020, York (online), UK
@@ -51,16 +53,20 @@ Schools
 
 Teaching
 ======
-* Invited talk on "Omics data in simulations of Schizophrenia" at the joined Simula-UCSD Summer School in Computational Physiology.
 * Master Thesis Reading Committee: Participated in the evaluation of a thesis and associated oral thesis defence  on the topic of tensor networks and wavelet-theory. 
 * Electromagnetism: Guided second year students through electromagnetism exercises, wrote accompanying theory summaries, and graded the problem sets. 
 * Introduction to Experimental Physics: Supervised first year students during their introductory course on experimental physics, graded their lab reports and was part of the oral examination committee. 
 
-Publications
+Invited Talks
+======
+* "Omics Data in Simulations of Schizophrenia" at the 2021 joined Simula-UCSD Summer School in Computational Physiology.
+
+Publications  Talks 
 ======
 * Verhellen, Jonas, and Jeriek Van den Abeele, "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)", Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
 
 Service and Leadership
 ======
+* Digibrain Meeting Organiser, 2021, Oslo, Norway
 * Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
 * Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
