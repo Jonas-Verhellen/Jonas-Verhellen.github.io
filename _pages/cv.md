@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
   
-Education
-======
-* Ph.D in Computational Neuroscience, University of Oslo, 2023 (expected)
-* M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
-* B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
 
 Professional Experience
 ======
@@ -51,19 +46,26 @@ Schools
 * Summer School in Mathematical and Theoretical Physics, XIII Modave Summer School, September 2017, Modave, Belgium
 * IPP Summer University for Plasma Physics and Fusion Research, Max Planck Institute for Plasma Physics , September 2016, Greifswald, Germany
 
+Publications and Talks 
+======
+* Omics Data in Simulations of Schizophrenia at the 2021 joined Simula-UCSD Summer School in Computational Physiology.
+* Verhellen, Jonas, and Jeriek Van den Abeele, "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)", Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
+
+Education
+======
+* Ph.D in Computational Neuroscience, University of Oslo, 2023 (expected)
+* M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
+* B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
+
 Teaching
 ======
 * Master Thesis Reading Committee: Participated in the evaluation of a thesis and associated oral thesis defence  on the topic of tensor networks and wavelet-theory. 
 * Electromagnetism: Guided second year students through electromagnetism exercises, wrote accompanying theory summaries, and graded the problem sets. 
 * Introduction to Experimental Physics: Supervised first year students during their introductory course on experimental physics, graded their lab reports and was part of the oral examination committee. 
 
-Publications and Talks 
-======
-* Omics Data in Simulations of Schizophrenia at the 2021 joined Simula-UCSD Summer School in Computational Physiology.
-* Verhellen, Jonas, and Jeriek Van den Abeele, "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)", Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
-
 Service and Leadership
 ======
 * Digibrain Meeting Organiser, 2021, Oslo, Norway
 * Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
 * Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
+
