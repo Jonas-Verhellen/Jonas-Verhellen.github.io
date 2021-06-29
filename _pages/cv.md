@@ -15,7 +15,7 @@ Education
 * M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
 * B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
 
-Work experience
+Professional Experience
 ======
 * Research Scientist, GTN ltd., 2019 - 2020, London, United Kingdom: Refined design algorithms for small molecule enzyme inhibitors, making use of Python and C++
 * Research Assistant, Ghent University, 2017 - 2019, Ghent, Belgium: Developed Quantum Many-Body theory and simulations, making use of Julia and Python
@@ -23,6 +23,10 @@ Work experience
 
 Conferences
 ======
+* Workshop on Free Energy Methods in Drug Design, Novartis Institute for BioMedical Research, June 2021, Cambridge (online), USA
+* Les Houches-TSRC Protein Dynamics Workshop, IST Austria, May 2021, Les Houches (online), France 
+* Ion Channel Symposium:  Novel members, structures and function, May 2021, Copenhagen (online), Denmark
+* Oslo Life Science Conference: Precision Psychiatry, Combining Big Data with Stem Cells, February 2021, Oslo (online), Norway
 * Inaugural Weizmann-Columbia Brain Symposium on The Adaptive Brain, Zuckerman Institute & Weizmann Institute, January 2021, New York City & Rehovot (online), USA & Israel 
 * National Symposium on Drug Repurposing for Future Pandemics, Harvard University & Harvard Medical School, November 2020, Boston (online), USA
 * ELRIG Drug Discovery Digital 2020, The European Laboratory Research and Innovation Group, October 2020, York (online), UK
@@ -54,8 +58,7 @@ Teaching
 
 Publications
 ======
-* Verhellen, Jonas, and Jeriek Van den Abeele. "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)" Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
-
+* Verhellen, Jonas, and Jeriek Van den Abeele, "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)", Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
 
 Service and Leadership
 ======
