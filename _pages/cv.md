@@ -57,12 +57,9 @@ Teaching
 * Electromagnetism: Guided second year students through electromagnetism exercises, wrote accompanying theory summaries, and graded the problem sets. 
 * Introduction to Experimental Physics: Supervised first year students during their introductory course on experimental physics, graded their lab reports and was part of the oral examination committee. 
 
-Invited Talks
+Publications and Talks 
 ======
-* "Omics Data in Simulations of Schizophrenia" at the 2021 joined Simula-UCSD Summer School in Computational Physiology.
-
-Publications  Talks 
-======
+* Omics Data in Simulations of Schizophrenia at the 2021 joined Simula-UCSD Summer School in Computational Physiology.
 * Verhellen, Jonas, and Jeriek Van den Abeele, "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)", Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
 
 Service and Leadership
