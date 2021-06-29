@@ -54,8 +54,9 @@ Teaching
 
 Publications
 ======
-* Illuminating elite patches of chemical space, Verhellen, J. and Van den Abeele, J., 2020 ,Chemical Science
-* Verhellen, Jonas, and Jeriek Van den Abeele. "Illuminating elite patches of chemical space." Chemical Science The Royal Society of Chemistry 11.42 (2020): 11485-11491, http://dx.doi.org/10.1039/D0SC03544K
+* Verhellen, Jonas, and Jeriek Van den Abeele. "[Illuminating elite patches of chemical space.](http://dx.doi.org/10.1039/D0SC03544K)" Chemical Science (The Royal Society of Chemistry), 11.42 (2020): 11485-11491
+
+
 Service and Leadership
 ======
 * Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
